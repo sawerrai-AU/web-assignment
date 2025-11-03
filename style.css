@@ -1,14 +1,14 @@
 /* Basic page styling */
 body {
     font-family: Arial, sans-serif;
-    background-color: #f2f2f2;
+    background-color: light blue;
     text-align: center;
     margin: 0;
     padding: 0;
 }
 
 header {
-    background-color: #007bff;
+    background-color: black;
     color: white;
     padding: 20px 0;
 }
@@ -19,7 +19,7 @@ main {
 
 button {
     padding: 10px 20px;
-    background-color: #007bff;
+    background-color: red;
     border: none;
     color: white;
     border-radius: 5px;
@@ -27,11 +27,11 @@ button {
 }
 
 button:hover {
-    background-color: #0056b3;
+    background-color: white;
 }
 
 footer {
-    background-color: #333;
+    background-color: black;
     color: white;
     padding: 10px 0;
     position: fixed;
