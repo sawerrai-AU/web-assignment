@@ -43,4 +43,8 @@ footer {
     position: fixed;
     width: 100%;
     bottom: 0;
+    font-size: 18px;
+    font-style: italic;
+    font-weight: lighter;
+
 }
